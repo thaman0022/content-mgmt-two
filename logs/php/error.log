@@ -1,0 +1,5 @@
+[30-Mar-2025 04:57:03 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/armaan/Local Sites/cms/app/public/wp-includes/class-wp-customize-widgets.php on line 923
+[30-Mar-2025 04:57:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/armaan/Local Sites/cms/app/public/wp-includes/class-wp-customize-widgets.php on line 923
+[30-Mar-2025 20:21:14 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/armaan/Local Sites/cms/app/public/wp-includes/class-wp-customize-widgets.php on line 923
+[30-Mar-2025 20:22:00 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/armaan/Local Sites/cms/app/public/wp-includes/class-wp-customize-widgets.php on line 923
+[31-Mar-2025 00:25:11 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
